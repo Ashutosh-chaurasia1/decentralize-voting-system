@@ -23,7 +23,7 @@ To provide a secure and transparent method of conducting digital elections using
 
 ## 🧾 Contract Details
 - Contract Name: `VotingSystem`
-- Deployed Address: `________________________` *(to be filled manually)*
+- Deployed Address: `0x0BF950AaE3770aa1463fEE1f2d35a8B0587DD4A2` *(to be filled manually)*
 - Network: Core Blockchain (Testnet)
 - Compiler: Solidity ^0.8.17
 ![Uploading image.png…]()
