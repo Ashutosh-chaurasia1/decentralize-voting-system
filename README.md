@@ -26,5 +26,6 @@ To provide a secure and transparent method of conducting digital elections using
 - Deployed Address: `0x0BF950AaE3770aa1463fEE1f2d35a8B0587DD4A2` *(to be filled manually)*
 - Network: Core Blockchain (Testnet)
 - Compiler: Solidity ^0.8.17
-![Uploading image.png…]()
+![Uploading image.png…]()![Screenshot 2025-06-20 122001](https://github.com/user-attachments/assets/de795d4b-5eee-4c49-827c-20493b8ef4a8)
+
 
