@@ -68,6 +68,11 @@ contract VotingSystem {
         return (candidates[winnerId].name, highestVotes);
     }
 
+
+//“Added one function suggested by ChatGP
+
+
+
     // ✅ New Function: Get all candidates with their vote counts
     function getAllCandidates() public view returns (Candidate[] memory) {
         Candidate[] memory result = new Candidate[](candidateCount);
@@ -77,4 +82,3 @@ contract VotingSystem {
         return result;
     }
 }
-//“Added one function suggested by ChatGP
